@@ -1,4 +1,4 @@
-** Data Professionals Survey Report** 
+ Data Professionals Survey Report
 
 --The dataset encompasses a survey of 630 data professionals across the globe taken in 2022. 
 
@@ -20,12 +20,20 @@ Key insights:
 This dataset would help talents seeking opportunity in the industry to know which data path to follow. It'd also help recruiters know what salary (among other information) should a role be paid.
 
 For creating a dashboard, I follow some steps as follows:
-**-- Extract data
--- Transform data
--- Data Modeling 
--- Report Building
--- Publish Report
--- Dashboard Creation
--- Share & Collaborate**
+
+**-- Extract data**
+
+**-- Transform data**
+
+**-- Data Modeling**
+
+**-- Report Building**
+
+**-- Publish Report**
+
+**-- Dashboard Creation**
+
+**-- Share & Collaborate**
+
 --The dataset encompasses a survey of 630 data professionals across the globe taken in 2022. 
 --As an unclean dataset, it went through thorough data cleaning using Power Query in Power BI. Some of the wrangling operations carried out were grouping, (bin and list), removing irrelevant columns, averaging certain data, and splitting columns for analysis purpose. 
